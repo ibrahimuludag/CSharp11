@@ -1,11 +1,11 @@
 ﻿namespace GenericAttributes;
 
-[Generic<int>()]
+[Generic<int>(10)]
 public class GenericClass1
 {
 }
 
-[Generic<string>()]
+[Generic<string>("Hello World")]
 public class GenericClass2
 {
 }
