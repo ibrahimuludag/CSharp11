@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RequiredMembers", "Required
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileLocalType", "FileLocalType\FileLocalType.csproj", "{7B66D0E8-9B1B-4BE5-805D-0BF4F6F7BDFE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericAttributes", "GenericAttributes\GenericAttributes.csproj", "{6C4EDCA5-A2BE-44CB-A7DE-3BD81729FC49}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{7B66D0E8-9B1B-4BE5-805D-0BF4F6F7BDFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7B66D0E8-9B1B-4BE5-805D-0BF4F6F7BDFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7B66D0E8-9B1B-4BE5-805D-0BF4F6F7BDFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C4EDCA5-A2BE-44CB-A7DE-3BD81729FC49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C4EDCA5-A2BE-44CB-A7DE-3BD81729FC49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C4EDCA5-A2BE-44CB-A7DE-3BD81729FC49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C4EDCA5-A2BE-44CB-A7DE-3BD81729FC49}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
